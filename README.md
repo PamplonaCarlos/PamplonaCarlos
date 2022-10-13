@@ -17,4 +17,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pamplonacarlos.pamplonacarlos&right_color=deepskyblue&left_text=Visitantes"  />
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2242etwgpb7ftjxdsb7kjy7oi)
+
 ###
