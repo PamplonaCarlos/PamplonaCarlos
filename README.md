@@ -1,9 +1,9 @@
-# Seja bem-vind@!
+# Welcome!
 
 ###
 
-### Me chamo Carlos Pamplona, sou estudante de Ciência da Computação na UFCG. 
-#### No momento estou estudando desenvolvimento web e DevOps e faço parte do Laboratório de Sistemas Distribuídos.
+### I'm Carlos Pamplona, a Federal University of Campina Grande Computer Science student. 🇧🇷
+#### I'm researching Confidential Computing and remote attestation. My focus is on DevOps and security.
 
 ###
 
